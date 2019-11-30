@@ -6,4 +6,4 @@ let money,
     period;
 
 alert('Привет Мир!');
-console.log('Привет Мир в консоли!');
+console.log('Привет Мир в консоли!!!');
